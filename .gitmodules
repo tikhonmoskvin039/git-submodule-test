@@ -1,0 +1,3 @@
+[submodule "git-submodule-globals"]
+	path = git-submodule-globals
+	url = https://github.com/tikhonmoskvin039/git-submodule-globals
